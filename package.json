@@ -1,0 +1,23 @@
+{
+  "name": "sitemap-examiner",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "coding challenge",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sitemap-examiner"
+  },
+  "author": "Jonathan Hammond",
+  "license": "ISC",
+  "dependencies": {
+    "@xmldom/xmldom": "^0.8.10",
+    "axios": "^1.4.0",
+    "express": "^4.18.2",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
